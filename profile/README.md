@@ -7,7 +7,7 @@
 
 
 ## 🎯 진행 중인 프로젝트
-- [locker-room-talk](https://github.com/B-Locker-Room/locker-room-talk): 실시간 콘서트 예매 및 대기열 시스템
+- [locker-room-talk](https://github.com/BallTalk/locker-room-talk): 실시간 콘서트 예매 및 대기열 시스템
 
 ## 💬 슬로건
 > 즐겁게 협업하며 성장하는 야구 커뮤니티 개발 프로젝트
